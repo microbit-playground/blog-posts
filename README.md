@@ -1,6 +1,6 @@
 # Blog Posts
 
-Repository for the microbit playground blog posts.
+Repository for microbit playground blog posts.
 
 ### Image Licensing
 
