@@ -8,8 +8,6 @@ Repository for microbit playground blog posts.
 |---------------|-------------------|---------------|
 | [chibibit]    |  Switched On Sci  |   [^1]        |
 
-
-
 [chibibit]: https://www.switch-science.com/catalog/2778/
 
 * [^1]: Used with permission of author.
