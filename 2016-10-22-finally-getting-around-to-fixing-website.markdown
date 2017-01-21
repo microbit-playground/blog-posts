@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Fixing the Website"
-date:   2016-12-31 14:29:20 +0100
+date:           2016-12-31 14:29:20 +0100
+date-updated:   2016-12-31 14:29:20 +0100
 tags: [meta, website]
 
 # Meta description for google and sharing

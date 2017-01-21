@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Chibi:bit microbit clone from Japan"
-date:   2016-10-01 00:29:20 +0100
+date:           2016-10-01 00:29:20 +0100
+date-updated:   2016-10-01 00:29:20 +0100
 tags: [chichi, microbit clone]
 
 # Meta description for google and sharing

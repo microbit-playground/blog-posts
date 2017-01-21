@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Programing Language Options on the Microbit"
-date:   2016-08-24 14:29:20 +0100
+date:           2016-08-24 14:29:20 +0100
+date-updated:   2016-08-24 14:29:20 +0100
 tags: [programming]
 
 # Meta description for google and sharing

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Introduction to the microbit playground website"
-date:   2017-01-20 14:29:20 +0100
+title:  "Contributions now Online"
+date:           2017-01-20 14:29:20 +0100
+date-updated:   2017-01-21 14:29:20 +0100
 tags: [meta]
 
 # Meta description for google and sharing
@@ -17,9 +18,9 @@ author: jez
 sharing: yes
 ---
 
-There's still some to go but the main bits of the website are now up. 
+There's still some to go but the main bits of the website are now up. Most of the repositories are online and are up for contributions.
 
-There are four main sections in the navbar above:
+There are four main sections now online, each found in the navbar above:
 
 * [**Program** section](https://microbit-playground.co.uk/programs/) [[repository](https://github.com/microbit-playground/programs)]
 * [**Components** section](https://microbit-playground.co.uk/components/) [[repository](https://github.com/microbit-playground/components)]
