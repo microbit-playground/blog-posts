@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to the microbit playground website"
-date:   2017-01-18 14:29:20 +0100
+date:   2017-01-20 14:29:20 +0100
 tags: [meta]
 
 # Meta description for google and sharing
